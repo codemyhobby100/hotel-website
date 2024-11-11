@@ -1,0 +1,2 @@
+[14-Oct-2024 09:48:31 UTC] PHP Fatal error:  Using $this when not in object context in /home/macjak/public_html/application/views/index.php on line 1
+[14-Oct-2024 09:48:37 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/macjak/public_html/application/views/roomlist.php on line 4
